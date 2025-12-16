@@ -79,3 +79,25 @@ Para a maioria dos usuários, a ferramenta **cleanmgr** já resolve a maior part
 ---
 
 📌 **Dica:** Execute a limpeza de disco regularmente para evitar a acumulação de arquivos desnecessários e melhorar a performance do sistema.
+
+<div align="center">
+
+[![1.1]][1]
+
+</div>
+
+<div align="center">
+  
+
+
+</div>
+
+[1.1]: https://massgrave.dev/img/logo_github.png (GitHub)
+
+
+[1]: https://github.com/jp-devl/Limpeza-Cmd-Win10-11
+
+
+---
+
+<p align="center">Obrigado ❤️</p>

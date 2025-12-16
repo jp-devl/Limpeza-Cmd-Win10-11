@@ -1,4 +1,5 @@
-# 🧹 Como limpar o PC pelo CMD (Windows)
+![Como limpar o PC pelo CMD (Windows)](imgs/logo.png)
+
 
 Este guia simples ajuda você a **limpar arquivos desnecessários** e melhorar o desempenho do seu PC, utilizando o **Prompt de Comando (CMD)** no Windows 10 ou 11.
 

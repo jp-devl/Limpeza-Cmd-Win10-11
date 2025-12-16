@@ -6,16 +6,6 @@ A linguagem é clara e fácil de entender, ideal para quem está começando.
 
 ---
 
-## 📚 Sumário
-
-- [O que você precisa](#-o-que-você-precisa)
-- [Como abrir o CMD como administrador](#-como-abrir-o-cmd-como-administrador)
-- [Limpar arquivos desnecessários (Limpeza de Disco)](#-limpar-arquivos-desnecessários-limpeza-de-disco)
-- [Limpar o disco inteiro (avançado)](#-limpar-o-disco-inteiro-avançado)
-- [Conclusão](#-conclusão)
-
----
-
 ## 📌 O que você precisa
 
 - **Windows 10 ou Windows 11**
@@ -30,7 +20,7 @@ A linguagem é clara e fácil de entender, ideal para quem está começando.
 3. Clique com o botão direito em **Prompt de Comando**
 4. Selecione **Executar como administrador**
 
-> 🖼️ *(Imagem ilustrativa aqui)*
+![Abrindo o CMD como administrador](imgs/recover-formatted-data-using-cmd-1.png)
 
 ---
 
@@ -50,7 +40,8 @@ cleanmgr
 3. Marque os arquivos que deseja excluir (como arquivos temporários, lixeira, etc.)
 4. Clique em **OK** e confirme
 
-> 🖼️ *(Imagem ilustrativa aqui)*
+![Limpeza de Disco no Windows](imgs/disk-cleanup.png)
+
 
 ---
 
@@ -75,7 +66,7 @@ clean
 - **Substitua `n`** pelo número do disco correto.  
 - Use o comando `clean all` para uma limpeza mais profunda (mais lenta).
 
-> 🖼️ *(Imagem ilustrativa aqui)*
+![Uso do DiskPart no CMD](imgs/clean-all-c-drive.png)
 
 ---
 

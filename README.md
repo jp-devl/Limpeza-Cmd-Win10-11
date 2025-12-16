@@ -1,0 +1,1 @@
+# Limpeza-Cmd-Win10-11
